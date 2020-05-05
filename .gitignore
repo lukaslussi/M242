@@ -2,5 +2,6 @@
 .vs/
 Debug/
 __pycache__/
-HelloWorld/
+HelloWorlds/
 Build/
+Avr/
